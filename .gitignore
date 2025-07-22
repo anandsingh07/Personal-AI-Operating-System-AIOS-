@@ -1,0 +1,10 @@
+node_modules\n.next\n.env.local\n.env\n.DS_Store\ndist\n*.log
+node_modules
+# .gitignore
+node_modules/
+.next/
+.env
+.env.local
+dist/
+out/
+* text=auto
